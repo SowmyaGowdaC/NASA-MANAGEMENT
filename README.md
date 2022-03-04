@@ -1,0 +1,3 @@
+# NASA-MANAGEMENT
+
+This is an online application to store information about the NASA (National Aeronautics and Space Administration). Where an Admin can maintain the information about the Scientists and which department they belongs to. It also keep track of Missions which are launched by NASA and also people who are going to visit the NASA. This application helps the Administrator to add new Scientists , Missions and Department. This Application also gives clear view of the Scientists who are currently working in NASA and which department they are working for, And also it will store the information about the missions. A new visitor can register and login, which helps Admin to know the people who are visiting and for what purpose they are visiting the NASA.
